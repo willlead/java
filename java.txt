@@ -1,0 +1,23 @@
+
+API
+application
+programming
+interface
+
+클래스 
+1. 사용자 정의
+2. 시스템(내장, 라이브러리)
+
+
+자바 api doc
+java.sun.com
+java apis -> java se8
+https://docs.oracle.com/javase/8/docs/api/
+
+안드로이드 api doc
+https://developer.android.com/reference/packages
+
+
+
+"7"+7 => "77" =  "7".concat (7) -> "77"
+
