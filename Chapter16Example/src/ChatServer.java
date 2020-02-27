@@ -45,7 +45,7 @@ class ChatServer extends Frame {
 		Socket socket = null;
 
 		try {
-			// 1. 서비소켓을 생성하여 7777번 포트와 결합시킨다.
+			// 1. 서버소켓을 생성하여 7777번 포트와 결합시킨다.
 			serverSocket = new ServerSocket(7777);
 			// 2. ta에 "서버가 준비되었습니다."라고 보여준다.
 			ta.setText("서버가 준비되었습니다.\n");
